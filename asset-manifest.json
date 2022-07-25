@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/aplicacion-tareas/static/css/main.c5c85787.css",
+    "main.js": "/aplicacion-tareas/static/js/main.153dffaa.js",
+    "static/media/durazno.jpg": "/aplicacion-tareas/static/media/durazno.097214a9f7f1783f6462.jpg",
+    "index.html": "/aplicacion-tareas/index.html",
+    "main.c5c85787.css.map": "/aplicacion-tareas/static/css/main.c5c85787.css.map",
+    "main.153dffaa.js.map": "/aplicacion-tareas/static/js/main.153dffaa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5c85787.css",
+    "static/js/main.153dffaa.js"
+  ]
+}
